@@ -20,4 +20,4 @@ Training RL agent for tic-tac-toe
 - Обучение REINFORCE
 - Оценка на основе 100 игр против случайной стратегии
 
-![График]()
+![График](https://github.com/Dr1MTeam/RL_tic-tac-toe/blob/main/res/output.png)
